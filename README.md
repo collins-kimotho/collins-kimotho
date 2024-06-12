@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Collins Kimotho</h1>
-<h3 align="center">A passionate Data Analyst & Developer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate Data Analyst & Python Developer from Nairobi, Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <a href="https://twitter.com/kim__collins" target="blank"><img src="https://img.shields.io/twitter/follow/kim__collins?logo=twitter&style=for-the-badge" alt="kim__collins" /></a> </p>
 
 - 🔭 I’m currently working on **ALX Software Engineering Programme**
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently learning **Python & Javascript**
 
-- 👯 I’m looking to collaborate on **Web Development & Data Analysis**
+- 👯 I’m looking to collaborate on **Data Engineering & Data Science**
 
 - 📝 I regularly write articles on [https://medium.com/@collinskimotho](https://medium.com/@collinskimotho)
 
-- 💬 Ask me about **Python & JavaScript**
+- 💬 Ask me about **Python & Automation**
 
 - 📫 How to reach me **collinskimotho@gmail.com**
 
