@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kim Collins</h1>
 <h3 align="center">A passionate software engineeer from Nairobi, Kenya</h3>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **Frontend Development using React, Next, TypeScript & Tailwind**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Mobile Development using React Native**
 
 - 👯 I’m looking to collaborate on [Web scraping with Selenium, BeautifulSoup, Scrapy](https://github.com/collins-kimotho/Scrapping-Data.git)
 
