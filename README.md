@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kim Collins</h1>
-<h3 align="center">A passionate software engineeer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate Software engineer from Nairobi, Kenya</h3>
 
-- 🔭 I’m currently working on **Frontend Development using React, Next, TypeScript & Tailwind**
+- 🔭 I’m currently working on **Data Science, Machine Learning & AI**
 
 - 🌱 I’m currently learning **Mobile Development using React Native**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@collinskimotho](https://medium.com/@collinskimotho)
 
-- 💬 Ask me about **Web scraping with Python, Backend development with Node (express js) & python**
+- 💬 Ask me about **Web scraping with Python, Machine Learning, Data Analysis, Data Science & python**
 
 - 📫 How to reach me **collinskimotho@gmail.com**
 
