@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kim Collins</h1>
-<h3 align="center">A passionate software engineer and data scientist from Nairobi, Kenya</h3>
+<h3 align="center">A passionate Data Analyst from Nairobi, Kenya</h3>
 
 - 🔭 I’m currently working on **Machine Learning & AI**
 
