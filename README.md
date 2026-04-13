@@ -1,26 +1,98 @@
-<h1 align="center">Hi 👋, I'm Kim Collins</h1>
-<h3 align="center">A passionate Data Analyst from Nairobi, Kenya</h3>
+# 👋 Hi, I'm Kim
 
-- 🔭 I’m currently working on **Machine Learning & AI**
+**Data Analyst using data + Python to drive smarter business decisions.**
 
-- 🌱 I’m currently learning **machine learning**
+---
 
-- 👯 I’m looking to collaborate on **anything data science**
+## 📊 About Me
 
-- 👨‍💻 All of my projects are available at [https://kim-collins-portfolio-zeta.vercel.app/](https://kim-collins-portfolio-zeta.vercel.app/)
+I’m building my career in data analytics with a focus on **real-world impact, not just theory**.
 
-- 📝 I regularly write articles on [https://medium.com/@collinskimotho](https://medium.com/@collinskimotho)
+I use tools like Excel, SQL, and Python to answer practical questions like:
+- Where is the business losing money?
+- What should we fix first?
+- What actions will increase revenue?
 
-- 💬 Ask me about **web scrapping & data analysis**
+I’m especially interested in combining **analysis + automation** to reduce manual work and improve decision-making speed.
 
-- 📫 How to reach me **collinskimotho@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kim__collins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kim__collins" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/collinskimotho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="collinskimotho" height="30" width="40" /></a>
-<a href="https://medium.com/@collinskimotho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@collinskimotho" height="30" width="40" /></a>
-</p>
+## 🛠️ Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Data Analysis
+- Excel (Advanced formulas, Pivot Tables, data cleaning)
+- SQL (Joins, aggregations, data extraction)
+
+### Programming
+- Python (Pandas, data cleaning, basic automation, scripting)
+
+### Data Visualization
+- Dashboards (Excel / Power BI)
+- Turning data into clear, actionable insights
+
+### Technical
+- Data cleaning & transformation  
+- Automating repetitive tasks  
+- Structured problem-solving  
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 Loan Default Risk Analysis
+Analyzed borrower data to identify patterns behind loan defaults.
+
+**Impact:**
+- Identified key indicators of high-risk borrowers  
+- Showed how data can reduce lending losses  
+- Provided a foundation for better approval decisions  
+
+---
+
+### ⚙️ Data Automation with Python (In Progress)
+Building simple workflows to pull, clean, and store data automatically.
+
+**Focus:**
+- API → CSV / Database pipelines  
+- Reducing manual Excel work  
+- Creating reusable scripts for recurring tasks  
+
+---
+
+
+## 📚 Currently Learning
+
+- Advanced SQL for complex queries  
+- Python for data pipelines and automation  
+- Dashboard design that drives decisions (not just visuals)  
+- Thinking like a business analyst  
+
+---
+
+## 🎯 What I’m Looking For
+
+- Data Analyst roles  
+- Freelance projects (analysis or automation)  
+- Opportunities to solve real business problems with data  
+
+---
+
+## 🤝 Let’s Connect
+
+If you have messy data, manual reports, or unclear decisions — I can help.
+
+- Open to work  
+- Open to collaborations  
+- Open to feedback  
+
+---
+
+## ⚡ Final Note
+
+I don’t just analyze data.
+
+I use data + tools like Python to **reduce manual work, uncover insights, and help businesses make better decisions.**
+
+---
+
+*Let’s build something useful.*
