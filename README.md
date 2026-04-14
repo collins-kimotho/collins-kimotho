@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Kim
+#  Hi, I'm Kim Collins 👋
 
-**Data Analyst using data + Python to drive smarter business decisions.**
+I'm a data analyst focused on turning raw data into clear, actionable insights that drive business decisions.
 
 ---
 
@@ -8,7 +8,7 @@
 
 I’m building my career in data analytics with a focus on **real-world impact, not just theory**.
 
-I use tools like Excel, SQL, and Python to answer practical questions like:
+I use tools like Excel, SQL, Power BI and Python to answer practical questions like:
 - Where is the business losing money?
 - What should we fix first?
 - What actions will increase revenue?
@@ -19,7 +19,8 @@ I’m especially interested in combining **analysis + automation** to reduce man
 
 ## 🛠️ Skills
 
-### Data Analysis
+### Data Analysis & Tools
+- Python (Pandas, Numpy, Matplotlib)
 - Excel (Advanced formulas, Pivot Tables, data cleaning)
 - SQL (Joins, aggregations, data extraction)
 
@@ -27,19 +28,21 @@ I’m especially interested in combining **analysis + automation** to reduce man
 - Python (Pandas, data cleaning, basic automation, scripting)
 
 ### Data Visualization
-- Dashboards (Excel / Power BI)
-- Turning data into clear, actionable insights
+- Power BI
+- Tableau
+- Dashboard design & storytelling
 
 ### Technical
-- Data cleaning & transformation  
-- Automating repetitive tasks  
+- Data cleaning & transformation
+- Exploratory data analysis (EDA)  
+- Basic automation & scripting  
 - Structured problem-solving  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📈 Loan Default Risk Analysis
+### 📈 [Loan Default Risk Analysis](https://github.com/collins-kimotho/Loan-Default-Risk-Analysis)
 Analyzed borrower data to identify patterns behind loan defaults.
 
 **Impact:**
@@ -49,18 +52,7 @@ Analyzed borrower data to identify patterns behind loan defaults.
 
 ---
 
-### ⚙️ Data Automation with Python (In Progress)
-Building simple workflows to pull, clean, and store data automatically.
-
-**Focus:**
-- API → CSV / Database pipelines  
-- Reducing manual Excel work  
-- Creating reusable scripts for recurring tasks  
-
----
-
-
-## 📚 Currently Learning
+## 📚 Currently Focus
 
 - Advanced SQL for complex queries  
 - Python for data pipelines and automation  
