@@ -71,7 +71,7 @@ Analyzed borrower data to identify patterns behind loan defaults.
 
 ## 🤝 Let’s Connect
 
-If you have messy data, manual reports, or unclear decisions — I can help.
+If you have messy data, manual reports, or unclear decisions, I can help.
 
 - Open to work  
 - Open to collaborations  
